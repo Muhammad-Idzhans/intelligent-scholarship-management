@@ -47,6 +47,7 @@ jobs:
         with:
           name: node-app
           path: nextjs-powerbi-ui/.next/standalone
+          include-hidden-files: true
 
   deploy:
     runs-on: ubuntu-latest
