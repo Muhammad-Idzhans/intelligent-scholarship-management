@@ -2,7 +2,7 @@
 
 import { useEffect } from "react";
 import { Button, Card, Typography, Space, Spin } from "antd";
-import { WindowsFilled, BarChartOutlined } from "@ant-design/icons";
+import { WindowsFilled, BarChartOutlined, FundProjectionScreenOutlined } from "@ant-design/icons";
 import { useSession, signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
 
@@ -44,7 +44,7 @@ export default function LoginPage() {
           {/* Logo / Title */}
           <div>
             <div className="text-center mb-3" style={{ backgroundColor: "#0078d4", width: 90, height: 90, borderRadius: "50%", display: "flex", justifyContent: "center", alignItems: "center", margin: "0 auto" }}>
-              <BarChartOutlined className="text-white" style={{ fontSize: 54 }} />
+              <FundProjectionScreenOutlined className="text-white" style={{ fontSize: 54 }} />
             </div>
             <Title level={3} className="mb-1">
               Scholarship Aid Analytics
