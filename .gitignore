@@ -1,0 +1,40 @@
+# Dependency directories
+**/node_modules/
+**/bower_components/
+
+# Next.js build output
+**/build/
+**/.next/
+**/out/
+
+# Environments & secrets
+.env
+.env*.local
+**/nextjs-powerbi-ui/.env.local
+**/.env.local
+
+# Python venv and caching
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.gemini/
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,62 @@
+disbursement_id,application_id,scholarship_id,disbursement_phase,disbursement_type,disbursement_amount,payment_date,payment_status,payment_method,bank_name,bank_account_no,approved_by,fiscal_year,budget_code
+FIN-0001,APP-0001,SCH-001,Phase 1 - Yuran Pengajian,Yuran Pengajian,3000.0,2026-04-09,Completed,Bank Transfer,Public Bank,6905-5102-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKA-2026
+FIN-0002,APP-0001,SCH-001,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,4800.0,2026-05-12,Scheduled,Bank Transfer,Public Bank,3711-1848-XXXX,En. Farid bin Zakaria,2026/2027,MOHE-BKA-2026
+FIN-0003,APP-0001,SCH-001,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,4800.0,2026-09-10,Scheduled,Bank Transfer,RHB,2494-2559-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKA-2026
+FIN-0004,APP-0003,SCH-004,Phase 1 - Yuran Pengajian,Yuran Pengajian,5000.0,2026-04-07,Completed,Bank Transfer,Maybank,3174-4705-XXXX,Pn. Salmah binti Kamal,2026/2027,MARA-BST-2026
+FIN-0005,APP-0003,SCH-004,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,6000.0,2026-05-15,Completed,Bank Transfer,Maybank,6629-2975-XXXX,En. Farid bin Zakaria,2026/2027,MARA-BST-2026
+FIN-0006,APP-0003,SCH-004,Phase 3 - Elaun Buku & Peralatan,Elaun Buku & Peralatan,500.0,2026-09-05,Processing,Bank Transfer,Maybank,4751-7276-XXXX,Pn. Rosmah binti Ismail,2026/2027,MARA-BST-2026
+FIN-0007,APP-0005,SCH-003,Phase 1 - Yuran Pengajian (50%),Yuran Pengajian,2000.0,2026-04-24,Completed,Bank Transfer,Maybank,6133-7022-XXXX,Pn. Hasnah binti Omar,2026/2027,MOHE-B40-2026
+FIN-0008,APP-0005,SCH-003,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,3000.0,2026-05-05,Processing,Bank Transfer,Hong Leong Bank,3181-3340-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-B40-2026
+FIN-0009,APP-0005,SCH-003,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,3000.0,2026-09-01,On Hold,Bank Transfer,Public Bank,3688-8210-XXXX,Pn. Hasnah binti Omar,2026/2027,MOHE-B40-2026
+FIN-0010,APP-0008,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-24,Completed,Bank Transfer,Public Bank,3480-7745-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKP-2026
+FIN-0011,APP-0010,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-22,Completed,Bank Transfer,Hong Leong Bank,4559-2420-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKP-2026
+FIN-0012,APP-0011,SCH-004,Phase 1 - Yuran Pengajian,Yuran Pengajian,5000.0,2026-04-05,On Hold,Bank Transfer,Maybank,7291-6759-XXXX,En. Farid bin Zakaria,2026/2027,MARA-BST-2026
+FIN-0013,APP-0011,SCH-004,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,6000.0,2026-05-11,Completed,Bank Transfer,CIMB,5537-2380-XXXX,En. Azman bin Yusof,2026/2027,MARA-BST-2026
+FIN-0014,APP-0011,SCH-004,Phase 3 - Elaun Buku & Peralatan,Elaun Buku & Peralatan,500.0,2026-09-10,Scheduled,Bank Transfer,Hong Leong Bank,5942-4366-XXXX,Pn. Salmah binti Kamal,2026/2027,MARA-BST-2026
+FIN-0015,APP-0015,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-20,Completed,Bank Transfer,CIMB,7418-5842-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKP-2026
+FIN-0016,APP-0019,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-26,Completed,Bank Transfer,RHB,7322-2847-XXXX,En. Azman bin Yusof,2026/2027,MOHE-BKP-2026
+FIN-0017,APP-0025,SCH-004,Phase 1 - Yuran Pengajian,Yuran Pengajian,5000.0,2026-04-16,Processing,Bank Transfer,AmBank,2163-9655-XXXX,Pn. Rosmah binti Ismail,2026/2027,MARA-BST-2026
+FIN-0018,APP-0025,SCH-004,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,6000.0,2026-05-12,Processing,Bank Transfer,CIMB,7337-7895-XXXX,Pn. Hasnah binti Omar,2026/2027,MARA-BST-2026
+FIN-0019,APP-0025,SCH-004,Phase 3 - Elaun Buku & Peralatan,Elaun Buku & Peralatan,500.0,2026-09-06,Processing,Bank Transfer,Hong Leong Bank,2195-1273-XXXX,Pn. Salmah binti Kamal,2026/2027,MARA-BST-2026
+FIN-0020,APP-0027,SCH-001,Phase 1 - Yuran Pengajian,Yuran Pengajian,3000.0,2026-04-03,Completed,Bank Transfer,Bank Islam,4534-1652-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKA-2026
+FIN-0021,APP-0027,SCH-001,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,4800.0,2026-05-13,Processing,Bank Transfer,Bank Islam,9209-7806-XXXX,En. Farid bin Zakaria,2026/2027,MOHE-BKA-2026
+FIN-0022,APP-0027,SCH-001,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,4800.0,2026-09-13,Scheduled,Bank Transfer,Public Bank,9791-9808-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKA-2026
+FIN-0023,APP-0029,SCH-001,Phase 1 - Yuran Pengajian,Yuran Pengajian,3000.0,2026-04-05,Completed,Bank Transfer,Maybank,6077-2294-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKA-2026
+FIN-0024,APP-0029,SCH-001,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,4800.0,2026-05-07,Completed,Bank Transfer,AmBank,6353-7401-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKA-2026
+FIN-0025,APP-0029,SCH-001,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,4800.0,2026-09-03,Scheduled,Bank Transfer,Public Bank,8167-4909-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKA-2026
+FIN-0026,APP-0035,SCH-001,Phase 1 - Yuran Pengajian,Yuran Pengajian,3000.0,2026-04-08,Completed,Bank Transfer,RHB,2900-8428-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKA-2026
+FIN-0027,APP-0035,SCH-001,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,4800.0,2026-05-20,Completed,Bank Transfer,Bank Islam,3877-2956-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKA-2026
+FIN-0028,APP-0035,SCH-001,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,4800.0,2026-09-05,Scheduled,Bank Transfer,CIMB,9133-6680-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKA-2026
+FIN-0029,APP-0039,SCH-004,Phase 1 - Yuran Pengajian,Yuran Pengajian,5000.0,2026-04-17,Processing,Bank Transfer,Bank Islam,3735-7092-XXXX,En. Azman bin Yusof,2026/2027,MARA-BST-2026
+FIN-0030,APP-0039,SCH-004,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,6000.0,2026-05-09,Scheduled,Bank Transfer,Maybank,1480-6488-XXXX,En. Farid bin Zakaria,2026/2027,MARA-BST-2026
+FIN-0031,APP-0039,SCH-004,Phase 3 - Elaun Buku & Peralatan,Elaun Buku & Peralatan,500.0,2026-09-09,Processing,Bank Transfer,Maybank,5308-2262-XXXX,En. Farid bin Zakaria,2026/2027,MARA-BST-2026
+FIN-0032,APP-0046,SCH-001,Phase 1 - Yuran Pengajian,Yuran Pengajian,3000.0,2026-04-15,Completed,Bank Transfer,Bank Islam,1908-9185-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKA-2026
+FIN-0033,APP-0046,SCH-001,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,4800.0,2026-05-06,Processing,Bank Transfer,CIMB,5179-2685-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKA-2026
+FIN-0034,APP-0046,SCH-001,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,4800.0,2026-09-04,Scheduled,Bank Transfer,Public Bank,9336-1042-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKA-2026
+FIN-0035,APP-0058,SCH-003,Phase 1 - Yuran Pengajian (50%),Yuran Pengajian,2000.0,2026-04-01,Completed,Bank Transfer,Maybank,8729-6963-XXXX,En. Farid bin Zakaria,2026/2027,MOHE-B40-2026
+FIN-0036,APP-0058,SCH-003,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,3000.0,2026-05-05,Completed,Bank Transfer,Hong Leong Bank,1579-7870-XXXX,En. Azman bin Yusof,2026/2027,MOHE-B40-2026
+FIN-0037,APP-0058,SCH-003,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,3000.0,2026-09-11,Scheduled,Bank Transfer,RHB,6241-5444-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-B40-2026
+FIN-0038,APP-0064,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-19,Completed,Bank Transfer,Maybank,9225-1862-XXXX,En. Azman bin Yusof,2026/2027,MOHE-BKP-2026
+FIN-0039,APP-0065,SCH-003,Phase 1 - Yuran Pengajian (50%),Yuran Pengajian,2000.0,2026-04-08,Completed,Bank Transfer,Maybank,7568-2129-XXXX,En. Farid bin Zakaria,2026/2027,MOHE-B40-2026
+FIN-0040,APP-0065,SCH-003,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,3000.0,2026-05-10,On Hold,Bank Transfer,Hong Leong Bank,6090-6362-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-B40-2026
+FIN-0041,APP-0065,SCH-003,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,3000.0,2026-09-15,Scheduled,Bank Transfer,Bank Islam,4287-5777-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-B40-2026
+FIN-0042,APP-0067,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-26,Completed,Bank Transfer,Public Bank,4974-8600-XXXX,Pn. Hasnah binti Omar,2026/2027,MOHE-BKP-2026
+FIN-0043,APP-0076,SCH-003,Phase 1 - Yuran Pengajian (50%),Yuran Pengajian,2000.0,2026-04-19,Completed,Bank Transfer,Hong Leong Bank,4201-9954-XXXX,En. Azman bin Yusof,2026/2027,MOHE-B40-2026
+FIN-0044,APP-0076,SCH-003,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,3000.0,2026-05-05,Completed,Bank Transfer,RHB,1391-4817-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-B40-2026
+FIN-0045,APP-0076,SCH-003,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,3000.0,2026-09-12,Failed,Bank Transfer,Hong Leong Bank,1157-6488-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-B40-2026
+FIN-0046,APP-0078,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-25,Processing,Bank Transfer,RHB,6038-2703-XXXX,En. Azman bin Yusof,2026/2027,MOHE-BKP-2026
+FIN-0047,APP-0079,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-17,Completed,Bank Transfer,RHB,9061-1981-XXXX,En. Azman bin Yusof,2026/2027,MOHE-BKP-2026
+FIN-0048,APP-0080,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-23,Completed,Bank Transfer,Maybank,1719-4792-XXXX,Pn. Salmah binti Kamal,2026/2027,MOHE-BKP-2026
+FIN-0049,APP-0084,SCH-004,Phase 1 - Yuran Pengajian,Yuran Pengajian,5000.0,2026-04-14,Processing,Bank Transfer,Bank Islam,8511-2391-XXXX,Pn. Salmah binti Kamal,2026/2027,MARA-BST-2026
+FIN-0050,APP-0084,SCH-004,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,6000.0,2026-05-04,Processing,Bank Transfer,CIMB,7461-2226-XXXX,Pn. Salmah binti Kamal,2026/2027,MARA-BST-2026
+FIN-0051,APP-0084,SCH-004,Phase 3 - Elaun Buku & Peralatan,Elaun Buku & Peralatan,500.0,2026-09-02,Scheduled,Bank Transfer,Public Bank,3141-4879-XXXX,Pn. Hasnah binti Omar,2026/2027,MARA-BST-2026
+FIN-0052,APP-0088,SCH-001,Phase 1 - Yuran Pengajian,Yuran Pengajian,3000.0,2026-04-09,Completed,Bank Transfer,Hong Leong Bank,7438-6345-XXXX,Pn. Hasnah binti Omar,2026/2027,MOHE-BKA-2026
+FIN-0053,APP-0088,SCH-001,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,4800.0,2026-05-15,Completed,Bank Transfer,CIMB,2223-4321-XXXX,En. Azman bin Yusof,2026/2027,MOHE-BKA-2026
+FIN-0054,APP-0088,SCH-001,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,4800.0,2026-09-04,Scheduled,Bank Transfer,Maybank,3693-8365-XXXX,En. Farid bin Zakaria,2026/2027,MOHE-BKA-2026
+FIN-0055,APP-0090,SCH-001,Phase 1 - Yuran Pengajian,Yuran Pengajian,3000.0,2026-04-11,Completed,Bank Transfer,Maybank,9780-6870-XXXX,En. Azman bin Yusof,2026/2027,MOHE-BKA-2026
+FIN-0056,APP-0090,SCH-001,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,4800.0,2026-05-15,Completed,Bank Transfer,RHB,5341-2964-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKA-2026
+FIN-0057,APP-0090,SCH-001,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,4800.0,2026-09-06,Scheduled,Bank Transfer,Hong Leong Bank,1660-4522-XXXX,Pn. Hasnah binti Omar,2026/2027,MOHE-BKA-2026
+FIN-0058,APP-0091,SCH-003,Phase 1 - Yuran Pengajian (50%),Yuran Pengajian,2000.0,2026-04-05,Completed,Bank Transfer,Public Bank,5066-6828-XXXX,En. Farid bin Zakaria,2026/2027,MOHE-B40-2026
+FIN-0059,APP-0091,SCH-003,Phase 2 - Elaun Sara Hidup Sem 1,Elaun Sara Hidup,3000.0,2026-05-17,Completed,Bank Transfer,Public Bank,5896-5262-XXXX,En. Azman bin Yusof,2026/2027,MOHE-B40-2026
+FIN-0060,APP-0091,SCH-003,Phase 3 - Elaun Sara Hidup Sem 2,Elaun Sara Hidup,3000.0,2026-09-01,Scheduled,Bank Transfer,Hong Leong Bank,8408-5093-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-B40-2026
+FIN-0061,APP-0100,SCH-002,Phase 1 - Bantuan Sara Hidup,Bantuan Khas,3000.0,2026-04-15,Completed,Bank Transfer,Hong Leong Bank,3290-2989-XXXX,Pn. Rosmah binti Ismail,2026/2027,MOHE-BKP-2026
